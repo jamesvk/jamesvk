@@ -4,8 +4,6 @@ Full-stack developer in the New York City area. I spent five years running opera
 
 ## What I've built
 
-**[Day Planner](https://day-planner-theta-ochre.vercel.app/)** — turns a plain-language trip description into a routed itinerary. Five-stage LLM pipeline behind a typed Express API, persisted to PostgreSQL, covered by an integration test suite.
-
 **[Masthead](https://editorial-cms-mu.vercel.app/)** — editorial CMS for managing and publishing articles.
 
 **[AppliTrack](https://applitrack-khaki.vercel.app/)** — job application tracker with JWT authentication, full CRUD, and automated email notifications.
