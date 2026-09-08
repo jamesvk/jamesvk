@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm James
 
-<!--
-**jamesvk/jamesvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer in the New York City area. I spent five years running operations in NYC real estate before moving into software — now I build and ship web applications end to end.
 
-Here are some ideas to get you started:
+## What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Day Planner](https://day-planner-theta-ochre.vercel.app/)** — turns a plain-language trip description into a routed itinerary. Five-stage LLM pipeline behind a typed Express API, persisted to PostgreSQL, covered by an integration test suite.
+
+**[Masthead](https://editorial-cms-mu.vercel.app/)** — editorial CMS for managing and publishing articles.
+
+**[AppliTrack](https://applitrack-khaki.vercel.app/)** — job application tracker with JWT authentication, full CRUD, and automated email notifications.
+
+## Stack
+
+TypeScript · JavaScript · React · Node · Express · PostgreSQL · MongoDB · REST APIs · JWT auth · Git
+
+## Now
+
+Sharpening data structures and algorithms, and looking for a junior or entry-level software engineering role — full-stack, frontend, or backend — in NYC or remote.
+
+📫 jamesvk100@gmail.com · [LinkedIn](https://www.linkedin.com/in/james-kim-se88/)
