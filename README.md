@@ -3,6 +3,7 @@
 Full-stack developer in the New York City area. I spent five years running operations in NYC real estate before moving into software — now I build and ship web applications end to end.
 
 ## What I've built
+> **Note:** These apps run on free-tier hosting, so the first load can take up to a minute while the server wakes up. Subsequent loads are fast.
 
 **[Day Planner](https://day-planner-theta-ochre.vercel.app/)** — turns a plain-language trip description into a routed itinerary. Five-stage LLM pipeline behind a typed Express API, persisted to PostgreSQL, covered by an integration test suite.
 
