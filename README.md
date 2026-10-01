@@ -20,3 +20,5 @@ TypeScript · JavaScript · React · Node · Express · PostgreSQL · MongoDB ·
 Sharpening data structures and algorithms, and looking for a junior or entry-level software engineering role — full-stack, frontend, or backend — in NYC or remote.
 
 📫 jamesvk100@gmail.com · [LinkedIn](https://www.linkedin.com/in/james-kim-se88/)
+
+🎧 Currently on repeat: Linkin Park *From Zero*
