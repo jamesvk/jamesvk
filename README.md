@@ -21,4 +21,4 @@ Sharpening data structures and algorithms, and looking for a junior or entry-lev
 
 📫 jamesvk100@gmail.com · [LinkedIn](https://www.linkedin.com/in/james-kim-se88/)
 
-🎧 Currently on repeat: Linkin Park *From Zero*
+🎧 Currently on repeat: Linkin Park [Album: *From Zero*]
