@@ -5,7 +5,7 @@ Full-stack developer in the New York City area. I spent five years running opera
 ## What I've built
 > **Note:** These apps run on free-tier hosting, so the first load can take up to a minute while the server wakes up. Subsequent loads are fast.
 
-**[Day Planner](https://day-planner-theta-ochre.vercel.app/)** — turns a plain-language trip description into a routed itinerary. Five-stage LLM pipeline behind a typed Express API, persisted to PostgreSQL, covered by a 39-test integration suite. *Source private while I continue it as a product — happy to walk through the code on a call.*
+**[Day Planner](https://day-planner-theta-ochre.vercel.app/)** — turns a plain-language trip description into a routed itinerary. Five-stage LLM pipeline behind a typed Express API, persisted to PostgreSQL, covered by a 39-test integration suite.
 
 **[Masthead](https://editorial-cms-mu.vercel.app/)** — editorial CMS for managing and publishing articles.
 
